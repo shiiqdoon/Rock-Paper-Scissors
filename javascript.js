@@ -13,6 +13,12 @@ console.log(getComputerChoice());
 
 // Step Two
 
+function getHumanChoice () {
+    let humanInput = prompt("Enter Rock, Paper or Scissors");
+    return humanInput;
+}
+console.log (getHumanChoice());
+
 
 
 // Step Three

@@ -23,6 +23,10 @@ console.log (getHumanChoice());
 
 // Step Three
 
+const computerScore = 0;
+const humanScore = 0;
 
 // Step Four
+
+
 
